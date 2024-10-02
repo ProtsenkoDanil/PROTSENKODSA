@@ -53,7 +53,6 @@ function handlePhoneFormatting() {
     alert(formattedPhone(phoneInput));
 }
 
-// Додаємо слухачі подій на кнопки
 document.getElementById("task1").addEventListener("click", function() {
     const firstRow = 'Slow and steady wins the race';
     const secondRow = 'You can say that again';
